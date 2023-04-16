@@ -227,7 +227,7 @@
         size: typography.text-size,
         font: typography.text-font,
     )
-    show math.equation: set text(font: typography.math-font)
+    //show math.equation: set text(font: typography.math-font)
 
     set page(
         paper: typography.paper,
